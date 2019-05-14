@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+/vendor
+phpdox.xml
+phpunit.xml
+!/**/.gitkeep
