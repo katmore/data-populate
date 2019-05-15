@@ -1,4 +1,4 @@
-# Data Populator
+# Data Populate
 A library to populate, map, and export php objects.
 
 ## Documentation

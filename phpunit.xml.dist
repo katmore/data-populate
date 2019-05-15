@@ -15,7 +15,7 @@
       <ini name="memory_limit" value="-1" />
    </php>
     <testsuites>
-        <testsuite name="DataPopulator Unit Test Suite">
+        <testsuite name="DataPopulate Unit Test Suite">
             <directory suffix="Test.php">./tests/phpunit/Tests/Unit</directory>
         </testsuite>
     </testsuites>
